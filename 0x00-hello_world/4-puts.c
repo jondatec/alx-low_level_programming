@@ -1,7 +1,8 @@
 #include <stdio.h>
 /*
- * Description: main - prints a string
+ * main - prints a string
  *
+ * Description: program that outputs a sentence to stdout
  * Return: 0
  */
 int main(void)
