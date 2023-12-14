@@ -1,5 +1,5 @@
 #include <unistd.h>
-/*
+/**
  * main - Entry point.
  *
  * Description: Function that prints without printf and puts
