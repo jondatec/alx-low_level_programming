@@ -1,10 +1,11 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 /**
  * main - Entry point
  *
- * Definition: Program that assign a random number to the var n each time executed
- * Definition: output should be greater than 0 if +, if 0 is zero and if less than 0 is -
+ * Definition: Program assigns random numbers to the var n on execution
+ *             output greater than 0 is +, if 0 is zero and if less than 0 is -
  *
  * Return: null (success)
  */
