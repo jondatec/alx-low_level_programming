@@ -15,7 +15,7 @@ int main(void)
 
 	while (m <= 99)
 	{
-		o=m+1;
+		o = m + 1;
 		while (o <= 99)
 		{
 			putchar((m / 10) + n);
