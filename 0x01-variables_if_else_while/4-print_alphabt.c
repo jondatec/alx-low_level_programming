@@ -11,7 +11,7 @@ int main(void)
 
 	while (low_Alph <= 'z')
 	{
-		if ((low_Alph == 'q') || (low_Alph == 'e'))
+		if ((low_Alph == 'q') && (low_Alph == 'e'))
 			continue;
 		putchar(low_Alph);
 		low_Alph++;
