@@ -15,4 +15,5 @@ int main(void)
 		low_Alph--;
 	}
 	putchar('\n');
+	return (0);
 }
