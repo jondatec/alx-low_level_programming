@@ -11,7 +11,7 @@ int main(void)
 	int n = 48;
 	int m = 0;
 	int o;
-	int p;
+	int p = 44;
 
 	while (m <= 99)
 	{
