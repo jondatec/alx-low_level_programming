@@ -15,14 +15,14 @@ int main(void)
 
 	while (m <= 99)
 	{
-		b=m+1;
+		o=m+1;
 		while (o <= 99)
 		{
 			putchar((m / 10) + n);
 			putchar((m % 10) + n);
 			putchar(32);
 			putchar((o / 10) + n);
-			putchar((o % 10) + n1);
+			putchar((o % 10) + n);
 			if (m != 98 || o != 99)
 			{
 				putchar(p);
