@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * void times_table - Entry point
+ * times_table - Entry point
  *
  * Definition: this function prints the 9 times table
  * Return: void
