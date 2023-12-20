@@ -9,7 +9,7 @@ void print_alphabet_x10(void)
 {
 	int col = 0;
 
-	while (col <= 10)
+	while (col < 10)
 	{
 		int ro = 'a';
 
