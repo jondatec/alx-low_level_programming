@@ -3,6 +3,7 @@
  * print_line - Enter point
  *
  * Definition: this function draws a straight  line
+ * @n: integer character comparison
  * Return: void
  */
 void print_line(int n)
