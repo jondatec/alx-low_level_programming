@@ -12,7 +12,7 @@ int _sqrt(int n, int y)
 		return (y);
 	else if (y == n / 2)
 		return (-1);
-	return (_sqrt(n, y +1));
+	return (_sqrt(n, y + 1));
 }
 /**
  * _sqrt_recursion - natural squreroot
@@ -25,7 +25,7 @@ int _sqrt_recursion(int n)
 	int c;
 
 	c = 0;
-	if(n < 0)
+	if (n < 0)
 		return (-1);
 	else if (n == 0)
 		return (0);
